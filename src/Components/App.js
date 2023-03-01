@@ -4,7 +4,11 @@ import HeroImg from "./HeroImg";
 import HardWork from "./HardWorkShortCutSection";
 import Achivers from "./AchiversSection";
 import HallOfFame from "./HallOfFameSection";
-
+import PopularPrograms from "./PopularProgramSection";
+import Affordable from "./AffordableSection";
+import CommunityProgram from "./CommunityProgram";
+import Product from "./ProductSection";
+import Footer from "./Footer";
 const App = () => {
     return(
         <>
@@ -13,6 +17,11 @@ const App = () => {
         <HardWork />
         <Achivers />
         <HallOfFame />
+        <PopularPrograms />
+        <Affordable />
+        <CommunityProgram />
+        <Product />
+        <Footer />
         </>
     )
 }

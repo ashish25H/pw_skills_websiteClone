@@ -34,6 +34,8 @@ const HallOfFame = () => {
           description="Hello everyone I am an undergraduate from SRM University. I got placed in the Tredence Analytics it is all because of the excellent course called full stack data scientist in the ineuron."
         />
       </div>
+
+      <p className="text-center text-xl text-[#758283] font-semibold mb-16">View More</p>
     </div>
   );
 };
